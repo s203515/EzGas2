@@ -1,0 +1,5 @@
+click("1590777773378.png")
+wait("1590848153022.png")
+wheel(WHEEL_DOWN,10)
+find("1590848888478.png")
+click(Pattern("1593028829089.png").targetOffset(602,-6))

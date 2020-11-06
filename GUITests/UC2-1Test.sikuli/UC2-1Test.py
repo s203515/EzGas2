@@ -1,0 +1,12 @@
+click("1590763999017.png")
+wait("1590772241700.png")
+type("1590768231143.png", "petronius@gmail.com")
+type("1590768256370.png", "javacoder")
+click("1590769703891.png")
+wait("1590769820973.png")
+click("1590769820973.png")
+wait("1590772854343.png")
+
+type("1590767994977.png", "javacoder")
+click("1590770119309.png")
+wait("1590770202976.png")
